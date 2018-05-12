@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41204#Tales-from--Blackwood---Volume-6
 gutenberg_issued: '2012-10-27'
 gutenberg_type: Text
 identifiers:
